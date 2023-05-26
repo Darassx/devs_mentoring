@@ -5,11 +5,11 @@ import random
 print("Are you LUCKY today?\n")
 number = int(input("What is your number?: "))
 
-computer_number_1 = random.randint(0,200)
-computer_number_2 = random.randint(0,50)
-computer_number_3 = random.randint(0,10)
-computer_number_4 = random.randint(-100,100)
-computer_number_5 = random.randint(-50,0)
+computer_number_1 = random.randint(0, 200)
+computer_number_2 = random.randint(0, 50)
+computer_number_3 = random.randint(0, 10)
+computer_number_4 = random.randint(-100, 100)
+computer_number_5 = random.randint(-50, 0)
 
 computer = [computer_number_1, computer_number_2, computer_number_3, computer_number_4, computer_number_5]
 computer_final = random.choice(computer)

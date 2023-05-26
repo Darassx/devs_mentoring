@@ -11,7 +11,7 @@ for number in numbers:
 
 print("\n\nAnd these ones are odd: ")
 for number in numbers:
-    if number % 2 == 1:
+    if number % 2 != 0:
         print(number, end=" ")
 
 #Pewnie dałoby się tu stworzyć funkcję hmmmm ?

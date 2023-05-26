@@ -1,6 +1,7 @@
 #co tu robi tak łatwe zadanie ;p
 
 choice = int(input("Choose the day of the week by choosing a number from 1 do 7: "))
+# while not isinstance(int. choice):
 
 #jak się zabezpieczyć jakby user wpisał string? Kojarzę coś takiego jak "Try:", a jakoś inaczej?
 
