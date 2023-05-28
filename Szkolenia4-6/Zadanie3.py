@@ -15,3 +15,5 @@ for number in numbers:
         print(number, end=" ")
 
 #Pewnie dałoby się tu stworzyć funkcję hmmmm ?
+
+
